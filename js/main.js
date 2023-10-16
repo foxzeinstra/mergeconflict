@@ -8,8 +8,12 @@ function basicHaiku()
 {
     return ["Toward those short trees","kaasje","On a day in spring."]
 }
-//zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
-
+function HaikuX(){
+    console.log("haiku by:","AUTHOR");
+    console.log("bomba");
+    console.log("clat");
+    console.log("fam");
+}
 haikus = [
     basicHaiku()
 ]
